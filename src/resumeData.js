@@ -92,7 +92,7 @@ let resumeData = {
       "name":"Dino In Space",
       "description":"Single Page application featuring live game/scoreboard and chatroom function. built with HTML/CSS, Bootstrap, JavaScript, MySQL, Socket.io, Vue.js, Sequelize, Node.js, Express",
       "imgurl":"images/portfolio/spaceDino.png",
-      "link":"https://secure-lowlands-84653.herokuapp.com/"
+      "link":"https://dino-in-space.herokuapp.com/"
     },
     {
       "name":"Git Clash",
